@@ -46,15 +46,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "APIsAndJSON",
+              "Title": "APIsAndJSON.csproj",
               "DocumentMoniker": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\APIsAndJSON.csproj",
               "RelativeDocumentMoniker": "APIsAndJSON\\APIsAndJSON.csproj",
               "ToolTip": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\APIsAndJSON.csproj",
               "RelativeToolTip": "APIsAndJSON\\APIsAndJSON.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-02T13:45:22.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T13:45:22.799Z"
             },
             {
               "$type": "Document",
@@ -64,7 +63,7 @@
               "RelativeDocumentMoniker": "APIsAndJSON\\appsettings.json",
               "ToolTip": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\appsettings.json",
               "RelativeToolTip": "APIsAndJSON\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-04-26T18:07:24.241Z",
               "EditorCaption": ""
@@ -91,8 +90,7 @@
               "RelativeToolTip": "APIsAndJSON\\QuoteGenarater.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T05:16:27.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T05:16:27.443Z"
             },
             {
               "$type": "Document",
